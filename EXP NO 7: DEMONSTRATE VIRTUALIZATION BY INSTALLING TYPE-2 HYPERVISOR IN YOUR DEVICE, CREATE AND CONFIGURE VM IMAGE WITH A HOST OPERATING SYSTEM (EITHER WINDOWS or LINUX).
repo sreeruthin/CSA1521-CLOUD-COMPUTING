@@ -1,0 +1,10 @@
+AIM:
+ To demonstrate virtualization by installing type-2 hypervisor in your device, create and configure VM
+image with a host operating system (either windows/linux).
+PROCEDURE:
+STEP 1:Dowload VMware workstation and installed as type 2hypervisor.
+STEP2:Dowload ubuntu or tiny OS as iso image file.
+STEP 3: In VMware workstation->create new VM.
+STEP 4: Do the basic configuration settings.
+STEP 5: Created tiny OS virtual machine.
+STEP 6: Launch the VM.
